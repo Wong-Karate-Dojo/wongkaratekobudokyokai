@@ -1,6 +1,6 @@
 .hero{
 
-  height:clamp(420px, 70vh, 650px);
+  height:clamp(457px, 70vh, 650px);
 
   display:flex;
   align-items:center;
@@ -9,12 +9,14 @@
   padding:0 8%;
 
   background-color:black;
-  background-image:url("../assets/images/teste.png");
+  background-image:url("../assets/images/capa_home.png");
   background-repeat:no-repeat;
-  background-position:86% center ;
-  background-size:contain;
+  background-position:100% ;
+
+  background-size:832px auto;
 
   color:white;
+  margin-top:60px;
 
 }
 
@@ -101,19 +103,19 @@
 
 @media(max-width:768px){
 
-  .hero{
+.hero{
 
     height:auto;
     min-height:420px;
     padding:100px 16px 60px;
     background-size:cover;
-    /* background-position:center center; */
+    background-position:73%;
     justify-content:center;
     position:relative;
 
   }
 
-  .hero::before{
+.hero::before{
 
     content:"";
     position:absolute;
@@ -122,7 +124,7 @@
 
   }
 
-  .hero-content{
+.hero-content{
 
     position:relative;
     z-index:1;
