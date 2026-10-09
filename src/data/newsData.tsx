@@ -148,9 +148,91 @@ import uberaba8 from "../assets/images/uberaba/8.png"
 
 import julho from "../assets/images/inscricoes/julho.png"
 
+import praticante9 from "../assets/images/praticante2026/1.png"
+import praticante10 from "../assets/images/praticante2026/2.png"
+import praticante11 from "../assets/images/praticante2026/3.png"
+import praticante12 from "../assets/images/praticante2026/4.png"
+import praticante13 from "../assets/images/praticante2026/5.png"
+import praticante14 from "../assets/images/praticante2026/6.png"
+import praticante15 from "../assets/images/praticante2026/7.png"
+import praticante16 from "../assets/images/praticante2026/8.png"
+import praticante17 from "../assets/images/praticante2026/9.png"
+import praticante18 from "../assets/images/praticante2026/10.png"
+import praticante19 from "../assets/images/praticante2026/11.png"
+
 
 
 export const news = [
+
+  {
+  slug: "mes-do-praticante-karate-outubro-2026",
+
+  title:
+    "Mês do Praticante reúne karatecas em dia de aprendizado e reconhecimento",
+
+  subtitle:
+    "Encontro tradicional celebrou o Dia Mundial do Karatê com treinamento, confraternização e uma homenagem surpresa aos praticantes.",
+
+  date:
+    "Outubro • 2026",
+
+  location:
+    "Santos • SP",
+
+  cover:
+    praticante9,
+
+  content:
+    `No último sábado, 03 de outubro, o tradicional Treino de Karate-Do reuniu praticantes para uma manhã de intenso aprendizado, aperfeiçoamento técnico e celebração do verdadeiro espírito da arte marcial. O encontro, realizado no Cuca’s Academia, também foi marcado por um momento especial preparado pelo Sensei Rogério Wong: uma homenagem surpresa a todos os participantes presentes.
+
+Além dos estudos e práticas do Okinawa Shorin-Ryu Karate-Do Shinshukan, cada praticante recebeu um reconhecimento individual em agradecimento pela dedicação, amizade, perseverança e contribuição para o fortalecimento do Karate-Do ao longo dos anos. O gesto emocionou os presentes e tornou o encontro ainda mais significativo.
+
+A presença de alunos com longa trajetória na arte, ao lado de praticantes de diferentes graduações, reforçou um dos maiores ensinamentos do Karate-Do: a evolução acontece quando caminhamos juntos, aprendendo uns com os outros e mantendo viva a tradição deixada pelos mestres que vieram antes de nós.
+
+Mais do que um treinamento, foi uma oportunidade de compartilhar conhecimento, fortalecer amizades e vivenciar valores que vão muito além da técnica.
+
+As inscrições para a próxima edição, prevista para novembro, serão abertas em breve. Como as vagas são limitadas para garantir um acompanhamento mais próximo e um treinamento de qualidade, os interessados devem ficar atentos aos canais oficiais para garantir sua participação.
+
+
+Os depoimentos dos participantes reforçaram a importância do encontro e a qualidade do aprendizado compartilhado.
+
+“Sua aula é muito gratificante. Seu conhecimento de filosofia e técnica veio do nosso saudoso Mestre Shinsato e hoje é compartilhado com seus seguidores.”
+
+“A cereja do bolo foi a aula, com práticas e exercícios, estudos, orientações e confraternização. Obrigado, Sensei, pela aula técnica e pelos comentários sobre técnicas e cultura das artes marciais.”
+
+“É sempre muito bom poder treinar e aprender cada vez mais, tendo a consciência de que o aprendizado e a evolução devem ser constantes.”
+
+
+Essas manifestações demonstram que o valor de um encontro vai além das técnicas praticadas: está também no conhecimento compartilhado, nas experiências vividas e na motivação para continuar evoluindo no caminho do Karate-Do.`,
+
+  gallery: [
+    praticante9,
+    praticante10,
+    praticante11,
+    praticante12,
+    praticante13,
+    praticante14,
+    praticante15,
+    praticante16,
+    praticante17,
+    praticante18,
+    praticante19
+  ],
+
+  videos: []
+},
+
+
+
+
+
+
+
+
+
+
+
+
 
   {
     slug: "aula-de-karate-julho-2026",
