@@ -160,9 +160,73 @@ import praticante17 from "../assets/images/praticante2026/9.png"
 import praticante18 from "../assets/images/praticante2026/10.png"
 import praticante19 from "../assets/images/praticante2026/11.png"
 
+import dan1 from "../assets/images/7dan/1.png"
+import dan2 from "../assets/images/7dan/2.png"
+import dan3 from "../assets/images/7dan/3.png"
+import dan4 from "../assets/images/7dan/4.png"
+import dan5 from "../assets/images/7dan/5.png"
+import dan6 from "../assets/images/7dan/6.png"
+import dan7 from "../assets/images/7dan/7.png"
+import dan8 from "../assets/images/7dan/8.png"
+import dan9 from "../assets/images/7dan/9.png"
+import dan10 from "../assets/images/7dan/10.png"
+import dan11 from "../assets/images/7dan/11.png"
 
 
 export const news = [
+
+{
+  slug: "sensei-rogerio-wong-7-dan-kobu-do-2026",
+
+  title:
+    "Sensei Rogério Wong conquista 7º Dan de Kobu-Do e celebra mais de 50 anos de dedicação às artes marciais",
+
+  subtitle:
+    "Reconhecimento celebra uma trajetória marcada pela dedicação às artes marciais, pelos ensinamentos dos mestres e por um emocionante vínculo familiar.",
+
+  date:
+    "Outubro • 2026",
+
+  location:
+    "Praia Grande • SP",
+
+  cover:
+    dan1,
+
+  content:
+    `Durante o Campeonato Brasileiro de Karatê da Escola Shinshukan, o Sensei Rogério Eng Wong teve a honra de receber a promoção ao 7º Dan de Kobu-Do, um reconhecimento que marca mais de 50 anos de dedicação às artes marciais.
+
+Um dos momentos mais emocionantes dessa conquista foi receber a graduação pelas mãos de sua mãe, Eng Ron Sil, que o acompanha nessa jornada há mais de cinco décadas.
+
+O Sensei Rogério expressa sua profunda gratidão à Escola Shinshukan, ao estilo Shorin-Ryu e aos Senseis Mitsuhide Shinzato, Hirokazu Shinzato, Gilberto Israel e Hector Ceballos, cujos ensinamentos contribuíram para sua trajetória.
+
+Sua gratidão se estende também a todos os alunos e alunas que passaram por suas aulas e que fazem parte dessa história. Afinal, o Karate-Do e o Kobu-Do se mantêm vivos por meio daqueles que compartilham e perpetuam seus ensinamentos.
+
+Mais do que uma graduação, uma conquista que honra o passado, celebra o presente e fortalece o legado que seguirá inspirando as próximas gerações.
+
+Banzai!`,
+
+  gallery: [
+    dan1,
+    dan2,
+    dan3,
+    dan4,
+    dan5,
+    dan6,
+    dan7,
+    dan8,
+    dan9,
+    dan10,
+    dan11
+  ],
+
+  videos: [
+    "6Xx6EFU0Xbk"
+  ]
+},
+
+
+
 
   {
   slug: "mes-do-praticante-karate-outubro-2026",
@@ -185,25 +249,25 @@ export const news = [
   content:
     `No último sábado, 03 de outubro, o tradicional Treino de Karate-Do reuniu praticantes para uma manhã de intenso aprendizado, aperfeiçoamento técnico e celebração do verdadeiro espírito da arte marcial. O encontro, realizado no Cuca’s Academia, também foi marcado por um momento especial preparado pelo Sensei Rogério Wong: uma homenagem surpresa a todos os participantes presentes.
 
-Além dos estudos e práticas do Okinawa Shorin-Ryu Karate-Do Shinshukan, cada praticante recebeu um reconhecimento individual em agradecimento pela dedicação, amizade, perseverança e contribuição para o fortalecimento do Karate-Do ao longo dos anos. O gesto emocionou os presentes e tornou o encontro ainda mais significativo.
+    Além dos estudos e práticas do Okinawa Shorin-Ryu Karate-Do Shinshukan, cada praticante recebeu um reconhecimento individual em agradecimento pela dedicação, amizade, perseverança e contribuição para o fortalecimento do Karate-Do ao longo dos anos. O gesto emocionou os presentes e tornou o encontro ainda mais significativo.
 
-A presença de alunos com longa trajetória na arte, ao lado de praticantes de diferentes graduações, reforçou um dos maiores ensinamentos do Karate-Do: a evolução acontece quando caminhamos juntos, aprendendo uns com os outros e mantendo viva a tradição deixada pelos mestres que vieram antes de nós.
+    A presença de alunos com longa trajetória na arte, ao lado de praticantes de diferentes graduações, reforçou um dos maiores ensinamentos do Karate-Do: a evolução acontece quando caminhamos juntos, aprendendo uns com os outros e mantendo viva a tradição deixada pelos mestres que vieram antes de nós.
 
-Mais do que um treinamento, foi uma oportunidade de compartilhar conhecimento, fortalecer amizades e vivenciar valores que vão muito além da técnica.
+    Mais do que um treinamento, foi uma oportunidade de compartilhar conhecimento, fortalecer amizades e vivenciar valores que vão muito além da técnica.
 
-As inscrições para a próxima edição, prevista para novembro, serão abertas em breve. Como as vagas são limitadas para garantir um acompanhamento mais próximo e um treinamento de qualidade, os interessados devem ficar atentos aos canais oficiais para garantir sua participação.
-
-
-Os depoimentos dos participantes reforçaram a importância do encontro e a qualidade do aprendizado compartilhado.
-
-“Sua aula é muito gratificante. Seu conhecimento de filosofia e técnica veio do nosso saudoso Mestre Shinsato e hoje é compartilhado com seus seguidores.”
-
-“A cereja do bolo foi a aula, com práticas e exercícios, estudos, orientações e confraternização. Obrigado, Sensei, pela aula técnica e pelos comentários sobre técnicas e cultura das artes marciais.”
-
-“É sempre muito bom poder treinar e aprender cada vez mais, tendo a consciência de que o aprendizado e a evolução devem ser constantes.”
+    As inscrições para a próxima edição, prevista para novembro, serão abertas em breve. Como as vagas são limitadas para garantir um acompanhamento mais próximo e um treinamento de qualidade, os interessados devem ficar atentos aos canais oficiais para garantir sua participação.
 
 
-Essas manifestações demonstram que o valor de um encontro vai além das técnicas praticadas: está também no conhecimento compartilhado, nas experiências vividas e na motivação para continuar evoluindo no caminho do Karate-Do.`,
+    Os depoimentos dos participantes reforçaram a importância do encontro e a qualidade do aprendizado compartilhado.
+
+    “Sua aula é muito gratificante. Seu conhecimento de filosofia e técnica veio do nosso saudoso Mestre Shinsato e hoje é compartilhado com seus seguidores.”
+
+    “A cereja do bolo foi a aula, com práticas e exercícios, estudos, orientações e confraternização. Obrigado, Sensei, pela aula técnica e pelos comentários sobre técnicas e cultura das artes marciais.”
+
+    “É sempre muito bom poder treinar e aprender cada vez mais, tendo a consciência de que o aprendizado e a evolução devem ser constantes.”
+
+
+    Essas manifestações demonstram que o valor de um encontro vai além das técnicas praticadas: está também no conhecimento compartilhado, nas experiências vividas e na motivação para continuar evoluindo no caminho do Karate-Do.`,
 
   gallery: [
     praticante9,
@@ -221,16 +285,6 @@ Essas manifestações demonstram que o valor de um encontro vai além das técni
 
   videos: []
 },
-
-
-
-
-
-
-
-
-
-
 
 
 

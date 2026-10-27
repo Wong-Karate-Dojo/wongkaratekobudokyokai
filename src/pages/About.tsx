@@ -90,7 +90,7 @@ export default function About(){
         <div className="about-content">
 
           <p>
-            <strong>Sensei Rogério Eng Wong, 8º dan em Karate e 6º dan em Kobudo</strong> iniciou a carreira em 1975, quando seus pais o levaram à academia do mestre Yoshihide Shinzato, um imigrante japonês que viria a ser o grande mentor de sua vida.
+            <strong>Sensei Rogério Eng Wong, 8º dan em Karate e 7º dan em Kobudo</strong> iniciou a carreira em 1975, quando seus pais o levaram à academia do mestre Yoshihide Shinzato, um imigrante japonês que viria a ser o grande mentor de sua vida.
           </p>
 
           <p>
